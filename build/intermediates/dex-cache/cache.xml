@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38bf3afc0de26ebb401fab7ab451ef8028d8bb0d">
+        <dex dex="/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_62e6ee95b2f8258ccff704c49ade1c189f7336c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6fbd1f39ff1c7c9959b94c3c5e7d2f0d33b5f42d/classes.dex" />
+    </item>
+
+</items>

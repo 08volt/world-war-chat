@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">ENIGMA-Chat</string>
+
+    <!-- BluetoothChat -->
+    <string name="send">Invia</string>
+    <string name="not_connected">non sei connesso con nessuno</string>
+    <string name="bt_not_enabled_leaving">Bluetooth non attivo. chiudo.</string>
+    <string name="title_connecting">connessione in corso...</string>
+    <string name="title_connected_to">connesso con <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">non connesso</string>
+
+    <!-- DeviceListActivity -->
+    <string name="scanning">sto cercando...</string>
+    <string name="select_device">seleziona un dispositivo</string>
+    <string name="none_paired">nessun device accoppiato</string>
+    <string name="none_found">nessun device trovato</string>
+    <string name="title_paired_devices">Dispositivi accoppiati</string>
+    <string name="title_other_devices">altri dispositivi disponibili</string>
+    <string name="button_scan">cerca</string>
+
+    <!-- Options Menu -->
+    <string name="connect">connesso</string>
+    <string name="discoverable">fatti trovare</string>
+    <string name="title_activity_activity_decripta">cifratura</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Impostazioni</string>
+
+    <string-array name="alfabeto">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string name="title_activity_activity_crypt">crittografia</string>
+
+</resources>
