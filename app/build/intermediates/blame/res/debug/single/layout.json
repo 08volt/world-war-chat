@@ -8,16 +8,40 @@
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/layout/layout_enigma.xml"
     },
     {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/layout_enigma.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/layout_enigma.xml"
+    },
+    {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/custom_title.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/custom_title.xml"
+    },
+    {
         "merged": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/res/merged/debug/layout/activity_activity_crypt.xml",
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/layout/activity_activity_crypt.xml"
+    },
+    {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/activity_activity_crypt.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/activity_activity_crypt.xml"
     },
     {
         "merged": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/res/merged/debug/layout/custom_title.xml",
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/layout/custom_title.xml"
     },
     {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/device_name.xml"
+    },
+    {
         "merged": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/res/merged/debug/layout/device_list.xml",
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/device_list.xml"
     },
     {
         "merged": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/res/merged/debug/layout/device_name.xml",
@@ -26,5 +50,9 @@
     {
         "merged": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/res/merged/debug/layout/main.xml",
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/layout/main.xml"
     }
 ]

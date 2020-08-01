@@ -4,7 +4,15 @@
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/menu/option_menu.xml"
     },
     {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/menu/menu_activity_crypt.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/menu/menu_activity_crypt.xml"
+    },
+    {
         "merged": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/build/intermediates/res/merged/debug/menu/menu_activity_crypt.xml",
         "source": "/Users/enrico/Dropbox/programmazione/ESAME/BluetoothChat-master 2/app/src/main/res/menu/menu_activity_crypt.xml"
+    },
+    {
+        "merged": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/build/intermediates/res/merged/debug/menu/option_menu.xml",
+        "source": "/Users/08volt/Desktop/PROGETTI/world-war-chat/app/src/main/res/menu/option_menu.xml"
     }
 ]
